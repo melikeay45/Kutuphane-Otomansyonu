@@ -1,0 +1,72 @@
+C:\Users\MELİKE\Desktop\beceriksizmelike\BL\bin\Debug\BL.exe.config
+C:\Users\MELİKE\Desktop\beceriksizmelike\BL\bin\Debug\BL.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike\BL\bin\Debug\BL.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike\BL\obj\Debug\BL.Properties.Resources.resources
+C:\Users\MELİKE\Desktop\beceriksizmelike\BL\obj\Debug\BL.csproj.GenerateResource.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike\BL\obj\Debug\BL.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike\BL\obj\Debug\BL.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\bin\Debug\BL.exe.config
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\bin\Debug\BL.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\bin\Debug\BL.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\bin\Debug\DAL.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\bin\Debug\Entity.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\bin\Debug\DAL.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\bin\Debug\DAL.exe.config
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\bin\Debug\Entity.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\bin\Debug\Entity.exe.config
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\obj\Debug\BL.Properties.Resources.resources
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\obj\Debug\BL.csproj.GenerateResource.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\obj\Debug\BL.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\BL\obj\Debug\BL.pdb
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\bin\Debug\BL.exe.config
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\bin\Debug\BL.exe
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\bin\Debug\BL.pdb
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\bin\Debug\DAL.exe
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\bin\Debug\Entity.exe
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\bin\Debug\DAL.pdb
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\bin\Debug\DAL.exe.config
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\bin\Debug\Entity.pdb
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\bin\Debug\Entity.exe.config
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\obj\Debug\BL.Properties.Resources.resources
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\obj\Debug\BL.csproj.GenerateResource.cache
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\obj\Debug\BL.exe
+C:\Users\Derda-PC\Desktop\Görsel Final\derda - Kopya\BL\obj\Debug\BL.pdb
+C:\Users\MELİKE\Desktop\aloo\BL\bin\Debug\BL.exe.config
+C:\Users\MELİKE\Desktop\aloo\BL\bin\Debug\BL.exe
+C:\Users\MELİKE\Desktop\aloo\BL\bin\Debug\BL.pdb
+C:\Users\MELİKE\Desktop\aloo\BL\bin\Debug\DAL.exe
+C:\Users\MELİKE\Desktop\aloo\BL\bin\Debug\Entity.exe
+C:\Users\MELİKE\Desktop\aloo\BL\bin\Debug\DAL.pdb
+C:\Users\MELİKE\Desktop\aloo\BL\bin\Debug\DAL.exe.config
+C:\Users\MELİKE\Desktop\aloo\BL\bin\Debug\Entity.pdb
+C:\Users\MELİKE\Desktop\aloo\BL\bin\Debug\Entity.exe.config
+C:\Users\MELİKE\Desktop\aloo\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\MELİKE\Desktop\aloo\BL\obj\Debug\BL.Properties.Resources.resources
+C:\Users\MELİKE\Desktop\aloo\BL\obj\Debug\BL.csproj.GenerateResource.cache
+C:\Users\MELİKE\Desktop\aloo\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\MELİKE\Desktop\aloo\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\MELİKE\Desktop\aloo\BL\obj\Debug\BL.exe
+C:\Users\MELİKE\Desktop\aloo\BL\obj\Debug\BL.pdb
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\bin\Debug\BL.exe.config
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\bin\Debug\BL.exe
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\bin\Debug\BL.pdb
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\bin\Debug\DAL.exe
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\bin\Debug\Entity.exe
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\bin\Debug\DAL.pdb
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\bin\Debug\DAL.exe.config
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\bin\Debug\Entity.pdb
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\bin\Debug\Entity.exe.config
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\obj\Debug\BL.Properties.Resources.resources
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\obj\Debug\BL.csproj.GenerateResource.cache
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\obj\Debug\BL.exe
+C:\Users\Derda-PC\Desktop\son1\aloo\BL\obj\Debug\BL.pdb

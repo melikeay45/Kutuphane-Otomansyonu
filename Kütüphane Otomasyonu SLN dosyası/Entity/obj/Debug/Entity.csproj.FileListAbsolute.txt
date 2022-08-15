@@ -1,0 +1,27 @@
+C:\Users\MELİKE\Desktop\beceriksizmelike\Entity\bin\Debug\Entity.exe.config
+C:\Users\MELİKE\Desktop\beceriksizmelike\Entity\bin\Debug\Entity.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike\Entity\bin\Debug\Entity.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike\Entity\obj\Debug\Entity.Properties.Resources.resources
+C:\Users\MELİKE\Desktop\beceriksizmelike\Entity\obj\Debug\Entity.csproj.GenerateResource.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike\Entity\obj\Debug\Entity.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike\Entity\obj\Debug\Entity.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\Entity\bin\Debug\Entity.exe.config
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\Entity\bin\Debug\Entity.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\Entity\bin\Debug\Entity.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\Entity\obj\Debug\Entity.Properties.Resources.resources
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\Entity\obj\Debug\Entity.csproj.GenerateResource.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\Entity\obj\Debug\Entity.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\Entity\obj\Debug\Entity.pdb
+C:\Users\MELİKE\Desktop\aloo\Entity\bin\Debug\Entity.exe.config
+C:\Users\MELİKE\Desktop\aloo\Entity\bin\Debug\Entity.exe
+C:\Users\MELİKE\Desktop\aloo\Entity\bin\Debug\Entity.pdb
+C:\Users\MELİKE\Desktop\aloo\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\MELİKE\Desktop\aloo\Entity\obj\Debug\Entity.Properties.Resources.resources
+C:\Users\MELİKE\Desktop\aloo\Entity\obj\Debug\Entity.csproj.GenerateResource.cache
+C:\Users\MELİKE\Desktop\aloo\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\MELİKE\Desktop\aloo\Entity\obj\Debug\Entity.exe
+C:\Users\MELİKE\Desktop\aloo\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,47 @@
+C:\Users\MELİKE\Desktop\beceriksizmelike\DAL\bin\Debug\DAL.exe.config
+C:\Users\MELİKE\Desktop\beceriksizmelike\DAL\bin\Debug\DAL.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike\DAL\bin\Debug\DAL.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\MELİKE\Desktop\beceriksizmelike\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike\DAL\obj\Debug\DAL.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike\DAL\obj\Debug\DAL.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\bin\Debug\DAL.exe.config
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\bin\Debug\DAL.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\bin\Debug\DAL.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\bin\Debug\Entity.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\bin\Debug\Entity.pdb
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\bin\Debug\Entity.exe.config
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\obj\Debug\DAL.exe
+C:\Users\MELİKE\Desktop\beceriksizmelike - Kopya\DAL\obj\Debug\DAL.pdb
+C:\Users\MELİKE\Desktop\aloo\DAL\bin\Debug\DAL.exe.config
+C:\Users\MELİKE\Desktop\aloo\DAL\bin\Debug\DAL.exe
+C:\Users\MELİKE\Desktop\aloo\DAL\bin\Debug\DAL.pdb
+C:\Users\MELİKE\Desktop\aloo\DAL\bin\Debug\Entity.exe
+C:\Users\MELİKE\Desktop\aloo\DAL\bin\Debug\Entity.pdb
+C:\Users\MELİKE\Desktop\aloo\DAL\bin\Debug\Entity.exe.config
+C:\Users\MELİKE\Desktop\aloo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\MELİKE\Desktop\aloo\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\MELİKE\Desktop\aloo\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\MELİKE\Desktop\aloo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MELİKE\Desktop\aloo\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\MELİKE\Desktop\aloo\DAL\obj\Debug\DAL.exe
+C:\Users\MELİKE\Desktop\aloo\DAL\obj\Debug\DAL.pdb
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\bin\Debug\DAL.exe.config
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\bin\Debug\DAL.exe
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\bin\Debug\DAL.pdb
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\bin\Debug\Entity.exe
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\bin\Debug\Entity.pdb
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\bin\Debug\Entity.exe.config
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\obj\Debug\DAL.exe
+C:\Users\Derda-PC\Desktop\son1\aloo\DAL\obj\Debug\DAL.pdb
